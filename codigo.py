@@ -3,6 +3,7 @@
     #https://dlp.hashtagtreinamentos.com/python/intensivao/login
 import pyautogui
 import time
+from flask import Flask
 
 pyautogui.PAUSE = 0.5
 
